@@ -1,0 +1,4 @@
+build/default/production/folder/readaddr.o:  \
+	C:/Users/TEMP/Desktop/Lab1-Q7.X/folder/readaddr.c  \
+	C:/Users/TEMP/Desktop/Lab1-Q7.X/xlcd.h  \
+
